@@ -2,9 +2,6 @@
 title: Home
 has_intro: true
 intro_actions:
-  - label: Learn More
-    url: /about
-    style: primary
   - label: Contact
     url: /contact
     style: secondary
