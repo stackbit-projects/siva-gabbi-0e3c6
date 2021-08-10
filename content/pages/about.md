@@ -31,13 +31,12 @@ seo:
       relativeUrl: true
 layout: page
 ---
+I was born in India and after graduating in Engineering from JNTU  and securing 99.69% in CAT, I enrolled myself for an MBA . As part of my MBA I moved to Madrid where i also found a job after graduation.  Eventually I moved to Berlin, Germany where I have lived for the last 10 years and in the process I became a German citizen. 
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Professionally I work as the Director Of Strategy for Dynamic Yield. Prior to this I worked extensively in Consulting, Machine Learning, Analytics & Data Engineering. 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+As a hobby, I explore different worlds, the world of physics, astronomy, history, political science, maths etc.. It is my goal to write down my thoughts on this blog when i am exploring a different world. 
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+*Thank You for reading! *
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+*I hope knowing things is as exciting to you as it is to me :)*
