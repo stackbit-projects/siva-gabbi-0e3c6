@@ -35,12 +35,10 @@ I was born in India and after graduating in Engineering from JNTU  and securing 
 
 Professionally I work as the Director Of Strategy for Dynamic Yield. Prior to this I worked extensively in Consulting, Machine Learning, Analytics & Data Engineering.
 
+> Jack Of All Trades Master Of All 
 
+If I had to sum up myself it would be the quote above. As a hobby, I explore different worlds, the world of physics, astronomy, history, political science, maths etc.. It is my goal to write down my thoughts on this blog when i am exploring a different world.
 
-> Jack Of All Trades Master Of All
-
-As a hobby, I explore different worlds, the world of physics, astronomy, history, political science, maths etc.. It is my goal to write down my thoughts on this blog when i am exploring a different world.
-
-\*Thank You for reading! \*
+*\*Thank You for reading! \**
 
 *I hope knowing things is as exciting to you as it is to me :)*
