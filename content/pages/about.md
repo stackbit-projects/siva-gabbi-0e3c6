@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
+subtitle: A brief Intro
 img_path: /images/IMG_1268.jpg
 img_alt: A man standing on a rock outside the cave
 seo:
