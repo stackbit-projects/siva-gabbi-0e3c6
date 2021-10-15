@@ -25,5 +25,5 @@ After I got my brand new PC, I set out to do the usual stuff, installing Python,
 
  So I install jupyter notebook and with a lot of pain, install tensorflow and write the first line of code: 
 
-<code>import tensorflow as tf *
+<code>import tensorflow as tf * </code>
 
