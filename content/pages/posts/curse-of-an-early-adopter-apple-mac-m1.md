@@ -10,7 +10,7 @@ seo:
   robots: []
   extra: []
 layout: post
-subtitle: ML On The New Apple M1 CPU
+subtitle: Machine L On The New Apple M1 CPU
 ---
 ## ![](/images/apple-m1-chip-overview.jpeg)
 
