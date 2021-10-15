@@ -27,5 +27,5 @@ After I got my brand new PC, I set out to do the usual stuff, installing Python,
 
 <code>import tensorflow as tf </code>
 
-and then boom, the kerner dies. This initially seemed to be a problem with the Jupyter Notebook so I try 
+and then boom, the kerner dies. This initially seemed to be a problem with Jupyter Notebook so I try 
 
