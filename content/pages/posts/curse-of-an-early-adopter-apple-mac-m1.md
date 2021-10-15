@@ -11,6 +11,7 @@ seo:
   extra: []
 layout: post
 subtitle: Machine Learning On The New Apple M1 CPU
+thumb_img_path: /images/apple-m1-chip-overview-56307df1.jpeg
 ---
 ## ![](/images/apple-m1-chip-overview.jpeg)
 
