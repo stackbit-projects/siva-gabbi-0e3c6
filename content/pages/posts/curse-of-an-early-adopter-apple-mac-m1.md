@@ -10,7 +10,7 @@ seo:
   robots: []
   extra: []
 layout: post
-subtitle: 'ML With The '
+subtitle: 'ML ON The New '
 ---
 ## Lorem ipsum
 
