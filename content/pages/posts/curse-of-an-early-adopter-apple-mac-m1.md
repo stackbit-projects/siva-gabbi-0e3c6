@@ -1,5 +1,5 @@
 ---
-title: Curse Of An Early Adopter - Apple Mac M1
+title: Curse Of An Early Adopter
 date: '2021-10-15'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
