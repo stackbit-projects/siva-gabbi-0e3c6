@@ -10,7 +10,7 @@ seo:
   robots: []
   extra: []
 layout: post
-subtitle: ML On The New M1
+subtitle: ML On The New M1 CPU
 ---
 ## Lorem ipsum
 
