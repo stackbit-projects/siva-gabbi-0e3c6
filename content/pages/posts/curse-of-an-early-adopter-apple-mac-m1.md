@@ -3,7 +3,7 @@ title: Curse Of An Early Adopter
 date: '2021-10-15'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: Machine Learning on the new Apple M1
+excerpt: Machine Learning On The New Apple M1 CPU
 seo:
   title: ''
   description: ''
