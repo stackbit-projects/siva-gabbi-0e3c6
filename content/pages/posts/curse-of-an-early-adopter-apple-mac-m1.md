@@ -27,3 +27,5 @@ After I got my brand new PC, I set out to do the usual stuff, installing Python,
 
 <code>import tensorflow as tf </code>
 
+and then viola, the kerner dies. 
+
