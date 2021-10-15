@@ -27,5 +27,5 @@ After I got my brand new PC, I set out to do the usual stuff, installing Python,
 
 <code>import tensorflow as tf </code>
 
-and then boom, the kernel dies. This initially seemed to be a problem with Jupyter Notebook so I try creating a new one and using it but doesnt matter, the result is the same. 
+and then boom, the kernel dies. This initially seemed to be a problem with Jupyter Notebook so I try creating a new one and using it but doesnt matter, the result is the same. This is where the result to 
 
