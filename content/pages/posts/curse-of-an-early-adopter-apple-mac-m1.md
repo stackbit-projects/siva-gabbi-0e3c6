@@ -28,4 +28,3 @@ So I install jupyter notebook and with a lot of pain, install tensorflow and wri
 <code>import tensorflow as tf </code>
 
 and then boom, the kernel dies. This initially seemed to be a problem with Jupyter Notebook so I try creating a new one and using it but doesnt matter, the result is the same. This is where the result to 
-
