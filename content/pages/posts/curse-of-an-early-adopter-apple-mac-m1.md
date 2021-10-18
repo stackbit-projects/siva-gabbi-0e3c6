@@ -19,7 +19,7 @@ thumb_img_path: /images/apple-m1-chip-overview-56307df1.jpeg
 
 ## Wondering why your kernel crashes on Jupyter? Cant seem to install packages with pip? Perhaps my experience helps
 
-I upgraded my laptop to the new Apple M1 a year after it was released, thinking wishfully that the software compatibility side of things would have died down Little did I know what I was up against. 
+I upgraded my laptop to the new Apple M1 a year after it was released, thinking wishfully that the software compatibility side of things would have died down by now Little did I know what I was up against. 
 
 After I got my brand new PC, I set out to do the usual stuff, installing Python, anaconda, virtual environments and the whole shebang. It seemed to be on the face of it, even though installing a few packages was an issue, it wasnt something that couldnt solved past a few google searches. 
 
