@@ -21,7 +21,7 @@ thumb_img_path: /images/apple-m1-chip-overview-56307df1.jpeg
 
 I upgraded my laptop to the new Apple M1 a year after it was released, thinking wishfully that the software compatibility side of things would have died down by now. Little did I know what I was up against. 
 
-After I installed macOS, I set out to do the usual stuff, installing Python, anaconda, virtual environments and the whole shebang. It seemed to be on the face of it, even though installing a few packages was an issue, it wasnt something that couldnt solved past a few google searches. 
+After I installed macOS, I set out to do the usual stuff, installing Python, anaconda, virtual environments and the whole shebang. It seemed to e on the face of it, even though installing a few packages was an issue, it wasnt something that couldnt solved past a few google searches. 
 
  So I install jupyter notebook and with a lot of pain, install tensorflow and write the first line of code: 
 
