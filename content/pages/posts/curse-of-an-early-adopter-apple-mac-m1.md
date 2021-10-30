@@ -50,7 +50,8 @@ from the newly created tensorflow virtual environment. This should return an exe
 [x86_64:Mach-O 64-bit executable x86_64]</code>
 
 <code>[arm64:Mach-O 64-bit executable arm64] </code>
-<code>tensorflow_macos_venv/bin/python (for architecture x86\_64): Mach-O 64-bit executable x86\_64 </code>
+<code>
+tensorflow_macos_venv/bin/python (for architecture x86\_64): Mach-O 64-bit executable x86\_64 </code>
 
 <code>tensorflow_macos_venv/bin/python (for architecture arm64):	        
 Mach-O 64-bit executable arm64 </code>
