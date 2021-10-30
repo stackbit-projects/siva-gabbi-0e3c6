@@ -37,26 +37,31 @@ Download the latest version and run:
 
 One thing i missed and i wish someone told me earlier is to point the tensorflow_macos to a version of python that is compatible with M1 and released by apple as part of Xcode tools. When you install python as part of Xcode tools, it is saved under <code>/usr/bin/python3</code>. This is the reason for the <code>-p --python=/usr/bin/python3</code> argument in the end.
 
-This install a tensorflow virtual environment and all its dependencies that works perfectly well with new M1. One way to make sure you have done everything right is to do: 
+This install a tensorflow virtual environment and all its dependencies that works perfectly well with new M1. One way to make sure you have done everything right is to do:
 
 <code>file $(which python) </code>
 
-from the newly created tensorflow virtual environment. This should return an executable with arm64 config like below: 
-
+from the newly created tensorflow virtual environment. This should return an executable with arm64 config like below:
 
 <code> tensorflow_macos_venv/bin/python: Mach-O universal binary with 2 architectures:</code>
 
 <code>
 [x86_64:Mach-O 64-bit executable x86_64]</code>
 
-<code>[arm64:Mach-O 64-bit executable arm64] </code>
+<code>\[arm64:Mach-O 64-bit executable arm64] </code>
 
 <code>
 tensorflow_macos_venv/bin/python (for architecture x86_64): Mach-O 64-bit executable x86_64 </code>
 
-<code>tensorflow_macos_venv/bin/python (for architecture arm64):	        
+<code>tensorflow_macos_venv/bin/python (for architecture arm64):
 Mach-O 64-bit executable arm64 </code>
 
-</code>
+Same goes for pandas. Installing it with pip results in all kind of troubles. It works only if it is installed from the source: 
+
+
+
+
+
+
 
 Cheers
