@@ -39,7 +39,7 @@ One thing i missed and i wish someone told me earlier is to point the tensorflow
 
 This install a tensorflow virtual environment and all its dependencies that works perfectly well with new M1. One way to make sure you have done everything right is to do: 
 
-<code>file $(which python) 
+<code>file $(which python) </code>
 
 from the newly created tensorflow virtual environment. This should return an executable with arm64 config like below: 
 
