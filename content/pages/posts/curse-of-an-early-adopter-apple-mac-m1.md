@@ -62,6 +62,6 @@ Same goes for pandas. Installing it with pip results in all kind of troubles. It
 
 <code> cd pandas </code>
 
-python3 setup.py install </code>
+<code> python3 setup.py install </code>
 
 Cheers
