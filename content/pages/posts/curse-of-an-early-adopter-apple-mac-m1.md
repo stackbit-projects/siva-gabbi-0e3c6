@@ -29,7 +29,7 @@ and then boom, the kernel dies. This initially seemed to be a problem with Jupyt
 
 \<code>
 
-import tensorflow as tf 
+import tensorflow as tf
 
 \</code>
 
