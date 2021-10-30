@@ -29,9 +29,7 @@ and then boom, the kernel dies. This initially seemed to be a problem with Jupyt
 
 <code>
 
-import tensorflow as tf
-
-</code>
+import tensorflow as tf</code>
 
 BOOM.. the kernel dies again.. coming to my wits end i browsed through the python, jupyter notebook and tensorflow github libraries and comments. Until I found that apple has its own M1 compatible tensorflow version: <https://github.com/apple/tensorflow_macos/releases>
 
