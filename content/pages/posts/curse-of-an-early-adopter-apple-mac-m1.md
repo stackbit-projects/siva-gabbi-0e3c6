@@ -35,7 +35,7 @@ Download the latest version and run:
 
 <code>/bin/bash Downloads/tensorflow_macos/install_venv.sh -p --python=/usr/bin/python3</code>
 
-One thing i missed and i wish someone told me earlier is to point the tensorflow_macos to a version of python that is compatible with M1 and released by apple as part of Xcode tools. When you install python as part of Xcode tools, it is saved under /usr/bin/python3. This is the reason for the <code>-p --python=/usr/bin/python3 argument in the end.
+One thing i missed and i wish someone told me earlier is to point the tensorflow_macos to a version of python that is compatible with M1 and released by apple as part of Xcode tools. When you install python as part of Xcode tools, it is saved under /usr/bin/python3. This is the reason for the <code>-p --python=/usr/bin/python3</code> argument in the end.
 
 This install a tensorflow virtual environment and all its dependencies that works perfectly well with new M1.
 
