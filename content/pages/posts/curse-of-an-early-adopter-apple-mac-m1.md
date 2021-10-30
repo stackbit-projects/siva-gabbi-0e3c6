@@ -33,9 +33,7 @@ BOOM.. the kernel dies again.. coming to my wits end i browsed through the pytho
 
 Download the latest version and run:
 
-\<code>
-
-/bin/bash Downloads/tensorflow_macos/install_venv.sh -p --python=/usr/bin/python3
+\<code>/bin/bash Downloads/tensorflow_macos/install_venv.sh -p --python=/usr/bin/python3
 
 \</code>
 
