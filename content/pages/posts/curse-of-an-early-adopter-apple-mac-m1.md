@@ -56,12 +56,12 @@ tensorflow_macos_venv/bin/python (for architecture x86_64): Mach-O 64-bit execut
 <code>tensorflow_macos_venv/bin/python (for architecture arm64):
 Mach-O 64-bit executable arm64 </code>
 
-Same goes for pandas. Installing it with pip results in all kind of troubles. It works only if it is installed from the source: 
+Same goes for pandas. Installing it with pip results in all kind of troubles. It works only if it is installed from the source:
 
+git clone --depth 1 [https://github.com/pandas-dev/pandas.git](https://github.com/pandas-dev/pandas.gitcd)
 
+[cd](https://github.com/pandas-dev/pandas.gitcd) pandas
 
-
-
-
+python3 setup.py install
 
 Cheers
