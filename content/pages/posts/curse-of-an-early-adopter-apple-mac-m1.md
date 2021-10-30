@@ -27,7 +27,7 @@ So I install jupyter notebook and with a lot of pain, install tensorflow and wri
 
 and then boom, the kernel dies. This initially seemed to be a problem with Jupyter Notebook so I try creating a new one and using it but doesnt matter, the result is the same. This is where I start expiring the solutions offered on stackoverflow or google. I realize the problem is with the new M1 chip compatibility.  What if anaconda or even python itself is not compatible with M1. This is where I deleted anaconda and realize that Apple offers a python version that is compatible with M1 as part of the Xcode tools. Now I have a python version that is sure to be compatible and jupyter notebook and tensorflow installed from scratch. I tried again with much hope:
 
-\<code>
+<code>
 
 import tensorflow as tf
 
