@@ -64,4 +64,10 @@ Same goes for pandas. Installing it with pip results in all kind of troubles. It
 
 <code> python3 setup.py install </code>
 
+This way of installing did not work in a different M1 Mac. What worked was emulating a x86 session to install pip. So i tried: 
+
+arch -x86\_64 pip install pandas
+
+
+
 Cheers
