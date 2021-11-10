@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: My Love For Physics
 subtitle: lorem-ipsum
 date: '2021-11-10'
 thumb_img_alt: lorem-ipsum
