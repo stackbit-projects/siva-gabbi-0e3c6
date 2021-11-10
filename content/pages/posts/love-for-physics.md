@@ -1,6 +1,6 @@
 ---
 title: My Love For Physics
-subtitle: Why Physics is so Fascinating
+subtitle: Why it is the most fascinating thing on the planet
 date: '2021-11-10'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
