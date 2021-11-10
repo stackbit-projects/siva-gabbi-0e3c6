@@ -4,7 +4,7 @@ subtitle: Why it is the most fascinating thing on the planet
 date: '2021-11-10'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Why Physics Fascinates Me
 seo:
   title: ''
   description: ''
