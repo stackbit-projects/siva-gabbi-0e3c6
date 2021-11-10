@@ -11,7 +11,7 @@ seo:
   robots: []
   extra: []
 layout: post
-content_img_path: /images/istockphoto-1274320612-612x612-95efa85a.jpeg
+content_img_path: /images/istockphoto-1274320612-612x612.jpeg
 ---
 ##
 
