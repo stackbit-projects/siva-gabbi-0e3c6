@@ -16,7 +16,9 @@ layout: post
 
 ![](/images/istockphoto-1274320612-612x612.jpeg)
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+> Physics is like sex. Sure you can get some interesting results, but that’s not why we do it.
 
-*   Lorem ipsum
-*   dolor sit amet
+**Richard Feynman**
+
+
+
