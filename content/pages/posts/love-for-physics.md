@@ -12,6 +12,7 @@ seo:
   extra: []
 layout: post
 content_img_path: /images/istockphoto-1274320612-612x612-39cb9e71.jpeg
+thumb_img_path: /images/istockphoto-1274320612-612x612-f94bcfaf.jpeg
 ---
 ##
 
