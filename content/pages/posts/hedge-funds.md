@@ -3,7 +3,6 @@ title: Hedge Funds
 subtitle: Highly secretive institutions at the cutting edge of investment strategies
 date: '2022-03-11'
 thumb_img_alt: Highly Secretive Institutions
-excerpt: lorem-ipsum
 seo:
   title: ''
   description: ''
