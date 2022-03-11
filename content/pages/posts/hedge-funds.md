@@ -12,9 +12,9 @@ seo:
   extra: []
 layout: post
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+There is a time to make money and a time to not loose money!
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+> Anonymous
 
 ![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
 
