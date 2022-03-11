@@ -1,6 +1,6 @@
 ---
 title: Hedge Funds
-subtitle: 'Secretive,'
+subtitle: 'Secretive, luring the brightest minds to perform'
 date: '2022-03-11'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
