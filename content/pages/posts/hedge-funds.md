@@ -11,6 +11,7 @@ seo:
   robots: []
   extra: []
 layout: post
+content_img_path: /images/35360045-14574500326562865_origin.png
 ---
 There is a time to make money and a time to not loose money!
 
