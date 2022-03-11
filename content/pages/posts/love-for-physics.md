@@ -21,8 +21,6 @@ thumb_img_path: /images/istockphoto-1274320612-612x612-f94bcfaf.jpeg
 
 **Richard Feynman**
 
-****
-
 **It**
 
 ****
