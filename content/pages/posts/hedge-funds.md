@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Hedge Funds
 subtitle: lorem-ipsum
 date: '2022-03-11'
 thumb_img_alt: lorem-ipsum
