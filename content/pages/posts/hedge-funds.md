@@ -17,7 +17,9 @@ There is a time to make money and a time to not loose money!
 
 > Anonymous
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+
+
+
 
 In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
