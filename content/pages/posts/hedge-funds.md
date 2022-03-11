@@ -1,6 +1,6 @@
 ---
 title: Hedge Funds
-subtitle: 'Secretive, luring the brightest minds to perform'
+subtitle: Highly secretive institutions at the cutting edge of investment strategies
 date: '2022-03-11'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
