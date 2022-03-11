@@ -1,6 +1,6 @@
 ---
 title: Hedge Funds
-subtitle: lorem-ipsum
+subtitle: 'Secretive,'
 date: '2022-03-11'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
