@@ -3,7 +3,7 @@ title: My Love For Physics
 subtitle: Why it is the most fascinating thing on the planet
 date: '2021-11-10'
 thumb_img_alt: Why Physics Should Fascinate You
-content_img_alt: lorem-ipsum
+content_img_alt: physics
 excerpt: Why it should fascinate you too
 seo:
   title: ''
