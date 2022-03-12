@@ -16,4 +16,6 @@ There is a time to make money and a time to not loose money!
 
 > Anonymous
 
-Hedge Funds are just that. They make money when they make money but they are the best at not loosing money when everyone else does! 
+Hedge Funds are just that. They make money when they make money but they are the best at not loosing money when everyone else does! The top Hedge Fund Managers have become billionaires from the fee they charge their clients, who are mostly billionaires themselves or large pension funds and such. 
+
+Hedge Funds dont take money willy nilly from anyone who is ready to give them some. You have to be qualified to even give them your money. 
