@@ -1,5 +1,5 @@
 ---
-title: Why
+title: The coming of Rust
 subtitle: lorem-ipsum
 date: '2022-03-14'
 thumb_img_alt: lorem-ipsum
