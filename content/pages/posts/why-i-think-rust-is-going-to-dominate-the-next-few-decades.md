@@ -1,6 +1,6 @@
 ---
 title: The coming of Rust
-subtitle: lorem-ipsum
+subtitle: Why it is set to dominate the next few decades
 date: '2022-03-14'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
