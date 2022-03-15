@@ -11,7 +11,6 @@ seo:
   robots: []
   extra: []
 layout: post
-content_img_path: /images/rust-most-loved-programmming-language-2018-1024x576.jpeg
 ---
 
 
